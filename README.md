@@ -1,3 +1,5 @@
+For the contact me part on this website, we have to run the server.js file separately on your system or you have to upload the backend to Heroku or AWS, etc.
+
 # Personal Portfolio Website in React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
